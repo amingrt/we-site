@@ -1,3 +1,15 @@
+::-webkit-scrollbar{
+    border-radius: 20px!important;
+    background-color:rgb(240, 240, 240)!important;
+    width: 20px;
+}
+::-webkit-scrollbar-thumb{
+    border-radius: 20px!important;
+    background-color:#34be82!important;
+}
+::-webkit-scrollbar-button{
+ visibility:hidden!important;
+}
 .top-header{
     border-bottom: 1px solid #e5e4e4;
     height: 109px;
@@ -27,6 +39,11 @@ padding: 10px;
 transition: .5s ease;
 
 }
+.custom-top-nav .sefaresh button a{
+ padding-right: 0;
+ color: #fff;
+    
+    }
 .custom-top-nav .sefaresh button:hover{
     background-color: #2b9668;
     }
@@ -41,6 +58,11 @@ transition: .5s ease;
     padding: 10px;
     transition: .5s ease;
     }
+    .custom-top-nav .moshavereh button a{
+        padding-right: 0;
+        color: #fff;
+           
+           }
     .custom-top-nav .moshavereh button:hover{
         background-color: #173f5a;
     }
