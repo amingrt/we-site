@@ -1,0 +1,135 @@
+.coustom-slider .carousel-item img{
+    height: 500px;
+}
+.carousel-item .crasol-caption{
+    background-color: rgba(255, 255, 255, 0.6);
+    opacity: 90%;
+    top: 29%;
+    right: 30%;
+    width: 637px;
+    height: 214px;
+ 
+}
+.coustom-slider .carousel-item .crasol-caption p{
+    font-size:2rem!important;
+    color: rgb(33, 32, 32);
+    font-style: italic;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 30px;
+}
+.coustom-slider .carousel-item .crasol-caption h6{
+    font-size:2rem!important;
+    color: rgb(33, 32, 32);
+    font-style: italic;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 45px;
+}
+.carousel-item .crasol-caption-two{
+    background-color: rgba(153, 135, 135, 0.6);
+    opacity: 90%;
+    top: 29%;
+    right: 30%;
+   width: 637px;
+   height: 214px;
+
+}
+.carousel-item .crasol-caption-two h6{
+    font-size:2rem!important;
+    font-style: italic;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 43px;
+    color: rgb(33, 32, 32);
+}
+.coustom-slider .carousel-item .crasol-caption-two p{
+    font-size:2em!important;
+    color: red;
+    font-style: italic;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 30px;
+}
+
+@media screen and (max-width:1250px) {
+
+   .carousel-item .crasol-caption{
+right: 24%!important;
+            
+        }
+        .carousel-item .crasol-caption-two{
+            right: 24%!important;
+        }
+}
+
+@media screen and (max-width:998px) {
+
+    .carousel-item .crasol-caption{
+ right: 15%!important;
+             
+         }
+         .carousel-item .crasol-caption-two{
+             right: 15%!important;
+         }
+ }
+ @media screen and (max-width:870px) {
+
+    .carousel-item .crasol-caption{
+        width: 315px!important;
+        height: 107px!important;
+        right:30%!important;
+        top:42%;
+         }
+         .carousel-item .crasol-caption-two{
+            width: 315px!important;
+            height: 107px!important;
+            right:30%!important;
+            top:42%;
+         }
+         .coustom-slider .carousel-item .crasol-caption p{
+            font-size:1.3rem!important;
+            padding-top: 20px!important;
+         }
+         .coustom-slider .carousel-item .crasol-caption h6{
+            font-size:1.3rem!important;
+            padding-top: 20px!important;
+         }
+         .carousel-item .crasol-caption-two p{
+            font-size:1.3rem!important;
+            padding-top: 20px!important;
+         }
+         .carousel-item .crasol-caption-two h6{
+            font-size:1.3rem!important;
+            padding-top: 20px!important;
+         }
+ }
+
+ @media screen and (max-width:610px) {
+
+    .carousel-item .crasol-caption{
+ right: 18%!important;
+             
+         }
+         .carousel-item .crasol-caption-two{
+             right: 18%!important;
+         }
+ }
+
+.carousel-control-next-icon {
+    background-color: #000;
+    border-radius: 10px;
+}
+.carousel-control-prev-icon {
+    background-color: #000;
+    border-radius: 10px;
+}
+@media screen and (max-width:450px) {
+    .carousel-item .crasol-caption{
+        right: 7%!important;
+                    
+                }
+                .carousel-item .crasol-caption-two{
+                    right: 7%!important;
+                }
+}

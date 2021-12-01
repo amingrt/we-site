@@ -1,0 +1,32 @@
+.bg-footer{
+    background-color: #22577a;
+}
+.Communication,.quick-access,.Social-Networks,a{
+    color: #fff;
+    padding-right: 20px;
+    transition: .5s ease;
+    
+}
+.Communication,.quick-access,.Social-Networks,a:hover{
+    color: #34be82;
+
+}
+.quick-access,.Social-Networks,.Communication{
+    border-right: 1px solid #707070;
+    height: 270px;
+
+}
+.Social-Networks img{
+height: 20px;
+width: 20px;
+}
+.end-footer p{
+font-size: 1rem!important;
+color: #34be82;
+text-align: center;
+border-top: 1px solid #707070;
+padding: 10px 0;
+}
+.p-color {
+    color: rgb(21, 21, 21)!important;
+}

@@ -1,0 +1,138 @@
+.coustom-final-article .card{
+   box-shadow: 2px 5px 16px 2px #787777;
+  width: 80%;
+  height: 100%;
+ 
+   
+}
+.coustom-final-article .card img{
+
+    transition: .5s ease;
+}
+.coustom-final-article .card img:hover{
+
+    transform: scaleY(1.1) ;
+}
+
+.coustom-final-article .icon img{
+height: 13px;
+width: 13px;
+
+}
+.coustom-final-article .icon ul li span{
+ 
+    font-size: .7rem!important;
+    }
+.coustom-final-article .read-more{
+    color: #339e70;
+}
+
+
+.coustom-final-article .card-body .roze{
+    background-color: #34be82;
+    width: 40px;
+    color: #fff;
+}
+.coustom-final-article .card-body .mah{
+ color: #34be82;
+    width: 40px;
+    border: 1px solid;
+
+
+}
+.coustom-final-article .card-body .tarikh{
+    top: -21px;
+    right: 294px;
+  
+}
+.coustom-final-article .card .card-title{
+     font-size: 1.3rem!important;
+     color: rgb(19, 19, 19);
+    transition: .5s ease;
+}
+.coustom-final-article .card .card-title:hover{
+color:#34be82 ;
+}
+.coustom-final-article .card a{
+    display: contents;
+    transition: .5s ease;
+}
+.coustom-final-article .card a:hover{
+    color:#34be82 ;
+}
+
+.coustom-final-article .card p{
+    line-height: 28px;
+
+}
+.coustom-final-article .card .icon{
+    padding-bottom: 15px;
+}
+.coustom-final-article ul {
+    color: #9f9292!important;
+    border-top: 1px solid #efefef;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.coustom-final-article ul li{
+    display: inline-block;
+    padding-top: 10px;
+    margin:  0 15px ;
+}
+.coustom-final-article ul li img{
+margin-left: 10px;
+
+}
+.coustom-h5-article span::before{
+    content: '';
+    width: 50px;
+    height: 3px;
+    top: 53px;
+    left: 77px;
+    background-color: #34be82;
+    position: absolute;
+}
+.coustom-h5-article span::after{
+    content: '';
+    width: 50px;
+    height: 3px;
+    top: 53px;
+    right: 77px;
+    background-color: #34be82;
+    position: absolute;
+}
+.card-title p{
+    font-size: 1.1rem!important;
+}
+@media screen and (max-width:1400px) {
+    .coustom-final-article .card-body .tarikh{
+        right: 245px;
+      
+    }
+}
+@media screen and (max-width:1200px) {
+    .card-title p{
+        font-size: 1rem!important;
+    }
+    .coustom-final-article .card .card-text{
+        line-height: 25px;
+    display: none;
+    }
+    
+    .coustom-final-article .card-body .tarikh{
+        right: 197px;
+      
+    }
+}
+@media screen and (max-width:768px) {
+    .coustom-final-article .card-body .tarikh{
+        right: 157px;
+    }
+}
+@media screen and (max-width:482px) {
+    .coustom-final-article .card-body .tarikh{
+        right: 225px;
+    }
+}

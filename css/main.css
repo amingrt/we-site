@@ -1,0 +1,46 @@
+@import '_start-top-nav.css';
+@import '_navighation.css';
+@import '_slider.css';
+@import '_services.css';
+@import '_design-process.css';
+@import'_Property-Web-design.css';
+@import'_final-article.css';
+@import'_Newsletters.css';
+@import'_footer.css';
+
+
+@font-face {
+    font-family: vazir;
+    src: url("../font/Vazir-Medium-WOL.eot") format('eot'),
+    url("../font/Vazir-Medium-WOL.woff") format('woff'),
+    url("../font/Vazir-Medium-WOL.woff2") format('woff2');
+}
+
+
+@font-face {
+    font-family: 'ansonregular';
+    src: url('../font/anson-regular-webfont.eot') format('eot');
+    src: url('../font/anson-regular-webfont.eot') format('embedded-opentype'),
+         url('../font/anson-regular-webfont.woff') format('woff'),
+         url('../font/anson-regular-webfont.ttf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+*{
+    box-sizing: border-box;
+    font-family:vazir;
+    margin: 0;
+    padding: 0;
+    font-size: .9rem!important;
+}
+a{
+    text-decoration: none;
+}
+p{
+    margin-bottom: 0rem;
+}
+    
+    

@@ -1,0 +1,104 @@
+.custom-nav ul li a{
+    color: rgb(52, 52, 52)!important;
+    transition: .5s ease;
+    font-size: .9rem;
+}
+.custom-nav ul li a:hover{
+    color:#34be82!important;
+}
+.custom-nav form input::placeholder{
+    font-size: .7rem;
+    }
+    .custom-nav form input{
+        border-radius: 0;
+        width: 20rem;
+    }
+    .dropdown-toggle::after {
+        vertical-align: 0.1rem;
+    }
+    .form-control:focus {
+       border-color:rgb(0, 0, 0); 
+       box-shadow:none; 
+    }
+    .form-control{
+        background-color: rgba(201, 201, 201, 0.1);
+    }
+    .custom-nav .dropdown-menu {
+ background-color:#22577a;
+}
+.custom-nav .dropdown-menu a{
+   color:#f0f0f0!important;
+   background-color:#22577a ;
+   }
+
+
+   .nav-item button{
+    width: 15px;
+    background-color: #fff;
+    border: none;
+        margin-top: 9px;
+    
+       
+   }
+   .nav-item .btn-login img{
+    height: 15px;
+    width: 15px;
+        margin-right: 4px;
+    margin-top: -4px;
+   }
+.modal-header .modal-title span{
+    margin-right: 165px;
+    margin-bottom: -3px;;
+}
+.modal-body .form-label{
+    margin-right: 2px;
+}
+.modal-body .form-control::placeholder{
+font-size: .7rem!important;
+}
+ .modal-body .btn-login{ 
+background-color:#34be82 ;
+color: #fff;
+transition: .5s ease;
+}
+.modal-body .btn-login:hover{ 
+    background-color:#2d9468 ;
+    color: #fff;
+    transition: .5s ease;
+    }
+.modal-body .btn-login-google{
+    background-color:#4c7260 ;
+    color: #fff;
+    transition: .5s ease;
+}
+.modal-body .btn-login-google:hover{
+    background-color:#3a5649 ;
+    color: #fff;
+    transition: .5s ease;
+}
+.form-check-input:focus {
+    border-color: #86b7fe;
+    outline: 0;
+     box-shadow:none;
+}
+.nav-item .btn-search img{
+    height: 15px;
+    width: 15px;
+    margin-right: -7px;
+    vertical-align: -5px;
+}
+.btn-check:focus + .btn, .btn:focus {
+    outline: 0;
+    box-shadow:none;
+}
+
+
+
+
+@media screen and (max-width:996px) {
+
+.nav-item .btn{
+    margin-right: -25px;
+}
+        
+    }

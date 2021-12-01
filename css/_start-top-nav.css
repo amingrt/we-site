@@ -1,0 +1,133 @@
+.top-header{
+    border-bottom: 1px solid #e5e4e4;
+    height: 109px;
+
+}
+.custom-top-nav .icon img{
+    height: 141px;
+    width: 228px;
+}
+.custom-top-nav .title-img{
+    margin-right: -202px;
+    margin-top: 80px;
+    color: #887b7b;
+}
+.custom-top-nav .Slogan{
+font-size: 2rem!important;
+color: #34be82;
+
+}
+
+.custom-top-nav .sefaresh button{
+background-color: #34BE82;
+color:#fff ;
+border: none;
+font-size: 0.9rem!important; 
+padding: 10px;
+transition: .5s ease;
+
+}
+.custom-top-nav .sefaresh button:hover{
+    background-color: #2b9668;
+    }
+
+
+
+.custom-top-nav .moshavereh button{
+    background-color: #22577A;
+    color:#fff ;
+    border: none;
+    font-size: 0.9rem!important; 
+    padding: 10px;
+    transition: .5s ease;
+    }
+    .custom-top-nav .moshavereh button:hover{
+        background-color: #173f5a;
+    }
+    .sefaresh-icon img{
+        height: 20px;
+        width: 20px;
+    }
+     .moshavere-icon{
+        height: 20px;
+        width: 20px;
+    }
+    .navbar-light .navbar-toggler {
+        color:#fff;
+         border: none;
+    }
+    .navbar-light .navbar-toggler-icon{
+background-image:url("../img/pngwing.com\ \(1\).png");
+width: 38px;
+    height: 28px;
+    }
+    .navbar-light .navbar-toggler-icon:active{
+        background-image:url("../img/times-solid.svg");
+        height: 20px;
+        width: 20px;
+        margin-right: 10px;
+    }
+
+
+    @media screen and (max-width: 996px) {
+        .custom-top-nav .icon img{
+
+  margin-right: 250px;
+        }
+    }
+    @media screen and (max-width: 996px) {
+        .top-header{
+
+  border-bottom: 0;
+        }
+    }
+
+    @media screen and (max-width: 996px) {
+        .navbar-light .navbar-toggler-icon {
+    margin-top: -122px;
+        }
+    }
+
+    @media screen and (max-width: 996px) {
+        .icon-hide .moshavere-icon img{
+            margin-top: -103px;
+            
+        }
+        .icon-hide .sefaresh-icon img{
+            margin-top: -103px;
+            
+        }
+        .moshavere-icon img{
+
+display: block!important;
+
+
+        }
+        .sefaresh-icon img{
+            display: block!important;
+        
+        }
+    }
+
+    @media screen and (max-width:768px) {
+
+    .custom-top-nav .icon img{
+
+                margin-right: 138px;
+    }
+}
+
+@media screen and (max-width:576px) {
+
+        .icon-hide .sefaresh-icon img{
+       margin-left: 10px!important;
+            
+        }
+}
+
+@media screen and (max-width:470px) {
+    .custom-top-nav .icon img{
+
+        margin-right: 75px;
+}
+}
