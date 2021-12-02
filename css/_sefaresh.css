@@ -1,0 +1,80 @@
+.sefaresh-title span{
+    font-size: .9rem;
+    }
+    .coustom-start-sefaresh span::before{
+        content: '';
+        width: 50px;
+        height: 3px;
+        top: 53px;
+        left: 287px;
+        background-color: #34be82;
+        position: absolute;
+    }
+    
+    .coustom-start-sefaresh span::after{
+        content: '';
+        width: 50px;
+        height: 3px;
+        top: 53px;
+        right: 287px;
+        background-color: #34be82!important;
+        position: absolute;
+    }
+    .coustom-sefaresh img{
+        height: 80px;
+        width: 120px;
+        transition: .5s ease;
+    }
+    .coustom-sefaresh img:hover{
+        height: 88px;
+        width: 125px;
+    }
+    .coustom-sefaresh h3{
+        font-size: 1.1rem!important;
+        font-weight: 600;
+    }
+    .coustom-business-site span::before{
+        content: '';
+        width: 50px;
+        height: 3px;
+        top: 53px;
+        left: 218px;
+        background-color: #34be82;
+        position: absolute;
+    }
+    
+    .coustom-business-site span::after{
+        content: '';
+        width: 50px;
+        height: 3px;
+        top: 53px;
+        right: 218px;
+        background-color: #34be82!important;
+        position: absolute;
+    }
+    .coustom-business-site p{
+        line-height: 35px;
+    }
+    .coustom-business-site img{
+        margin-top: -44px;
+    }
+
+    .coustom-form-site span::before{
+        content: '';
+        width: 50px;
+        height: 3px;
+        top: 53px;
+        left: 102px;
+        background-color: #34be82;
+        position: absolute;
+    }
+    
+    .coustom-form-site span::after{
+        content: '';
+        width: 50px;
+        height: 3px;
+        top: 53px;
+        right: 102px;
+        background-color: #34be82!important;
+        position: absolute;
+    }
