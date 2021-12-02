@@ -1,5 +1,6 @@
 
 <!--start-footer-->
+<!--start-footer-->
 <div class="container-fluid position-absolute bg-footer p-0">
   <div class="container">
     <div class="row">
@@ -36,10 +37,10 @@
   
   <p class="mt-5 p-color"> شبکه های اجتماهی</p>
   <div class="icon-footer mt-3">
-  <a href="#" class="instagram"><i class="fab fa-instagram fs-3"></i></a>
-<a href="#" >  <img class="telegram" src="img/telegram-plane-brands.svg" alt=""></a>
-  <a href="#" ><img class="twitter" src="img/twitter-brands.svg" alt=""></a>
-  <a href="#" ><img class="whatsapp" src="img/whatsapp-brands.svg" alt=""></a>
+  <a href="https://instagram.com"><i class="fab fa-instagram fs-3"></i></a>
+<a href="https://telegram.com" >  <i class="fab fa-telegram fs-3"></i></a>
+  <a href="#"><i class="fab fa-twitter fs-3"></i></a>
+  <a href="https://whatsapp.com" ><i class="fab fa-whatsapp fs-3"></i></a>
 </div>
       </div>
     </div>
@@ -52,15 +53,14 @@
 
 
 
-<!--end-footer-->
+
 
 
 
 
 
 </div>
-
-
+<!--end-footer-->
 
 
 

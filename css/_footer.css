@@ -30,3 +30,19 @@ padding: 10px 0;
 .p-color {
     color: rgb(21, 21, 21)!important;
 }
+.icon-footer i{
+    height: 25px!important;
+    width: 25px;
+}
+.icon-footer .fa-instagram:hover{
+    color: red!important;
+}
+.icon-footer .fa-telegram:hover{
+    color: #34a7e2!important;
+}
+.icon-footer .fa-twitter:hover{
+    color: #3584ac!important;
+}
+.icon-footer .fa-whatsapp:hover{
+    color: #56d062!important;
+}

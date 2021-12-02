@@ -20,7 +20,7 @@
            <div class="col-md-3 d-flex custom-top-nav">
                <div class="icon">
                  <div class="d-flex">
-                   <img src="img/web_logo_chenar2.png" alt="">
+                   <a href="/index.html"><img src="img/web_logo_chenar2.png" alt=""></a>
                  </div>
                  </div>
                  <p class="title-img d-none d-lg-block">آموزش و طراحی سایت در وب چنار</p>
@@ -28,11 +28,14 @@
                <div class="col-md-5 d-flex custom-top-nav d-flex align-items-center justify-content-center">
                  <p class="Slogan d-none d-lg-block">بهتر دیده شدن را از ما بخواهید</p> </div>
                <div class="col-md-4 d-flex custom-top-nav d-flex align-items-center justify-content-center">
+               
                <div class="sefaresh ">
-                 <button type="button" class=" mx-4 d-none d-lg-block"><span>سفارش طراحی سایت</span></button>
+                 <button type="button" class=" mx-4 d-none d-lg-block"><a href="./sefaresh.html">سفارش طراحی سایت</a></button>
                 </div>
+        
+               
                 <div class="moshavereh ">
-                  <button type="button" class="d-none d-lg-block"><span> مشاوره رایگان</span></button>
+                  <button type="button" class="d-none d-lg-block" ><a href="moshavereh.html"> مشاوره رایگان</a></button>
                 </div>
               </div>
               <div class="icon-hide d-flex justify-content-end">
@@ -71,7 +74,7 @@
                               <li><a class="dropdown-item" href="#">طراحی سایت شرکتی</a></li>
                               <li><a class="dropdown-item" href="#">طراحی سایت شخصی</a></li>
                               <li><a class="dropdown-item" href="#">طراحی سایت پزشکی</a></li>
-                              <li><a class="dropdown-item" href="#">طراحی سایت پزشکی</a></li>
+                              <li><a class="dropdown-item" href="#">پشتیبانی</a></li>
                             </ul>
                           </li>
                           <li class="nav-item">
@@ -106,10 +109,11 @@
                         <li class="nav-item">
                          <!-- Button trigger modal -->
                          <button type="button" class="btn-login" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                           <img src="img/sign-in-alt-solid.svg" alt="">
+                           <img src="img/sign-in-alt-solid.svg" alt="" title="ثبت نام/ورود"> 
 </button>
 
 <!-- Modal -->
+
 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -120,11 +124,11 @@
       <div class="modal-body">
         <div class="mb-3">
           <label for="formGroupExampleInput" class="form-label">ایمیل </label>
-          <input type="text" class="form-control" id="formGroupExampleInput" placeholder="ایمیل خود را وارد کنید">
+          <input type="text" class="form-control" id="formGroupExampleInput" placeholder="ایمیل خود را وارد کنید" required>
         </div>
         <div class="mb-3">
           <label for="formGroupExampleInput2" class="form-label">رمز عبور</label>
-          <input type="password" class="form-control" id="formGroupExampleInput2" placeholder="رمز عبور خود را وارد کنید">
+          <input type="password" class="form-control" id="formGroupExampleInput2" placeholder="رمز عبور خود را وارد کنید" required>
         </div>
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" >
@@ -132,8 +136,8 @@
             مرا به خاطر بسپار
           </label>
         </div>
-        <button type="button" class="btn btn-login w-100 ">ورود</button>
-        <button type="button" class="btn btn-login-google w-100 mb-3">ورود با گوگل</button>
+        <button type="submit" class="btn btn-login w-100 ">ورود</button>
+        <button type="submit" class="btn btn-login-google w-100 mb-3">ورود با گوگل</button>
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked1" >
           <label class="form-check-label mb-3" for="flexCheckChecked1">
@@ -147,21 +151,23 @@
       </div>
     </div>
   </div>
+
 </li>
+
   
 
 
                           <li class="nav-item px-3 ">
 
                             <a class="btn" data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-                              <img src="img/search-solid (1).svg" style="height: 15px;width: 15px;" alt="">
+                              <img src="img/search-solid (1).svg" style="height: 15px;width: 15px;" alt="" title="جست و جو">
                             </a>
                        
                         
                           <div class="collapse" id="collapseExample">
                             <div class="card card-body">
                             <form action="https://google.com">
-                              <input type="search" class="form-control" id="collapseExample" placeholder="عنوان مد نظر خود را جست و جو کنید">
+                              <input type="search" class="form-control" id="collapseExample2" placeholder="عنوان مد نظر خود را جست و جو کنید">
                             </form>
                             </div>
                           </div>
@@ -174,7 +180,11 @@
                     </nav>
                     </div>
                   </div>
-  <!--end-nav-->
+  
+  </div>
+</div>
+</header>
+<!--end-nav-->
   </div>
 </div>
 </header>

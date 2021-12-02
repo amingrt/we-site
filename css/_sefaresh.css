@@ -1,25 +1,106 @@
+.coustom-form-site span::before{
+    content: '';
+    width: 50px;
+    height: 3px;
+    top: 53px;
+    left: 134px;
+    background-color: #34be82;
+    position: absolute;
+}
+
+.coustom-form-site span::after{
+    content: '';
+    width: 50px;
+    height: 3px;
+    top: 53px;
+    right: 134px;
+    background-color: #34be82!important;
+    position: absolute;
+}
+.coustom-price-site span::before{
+    content: '';
+    width: 50px;
+    height: 3px;
+    top: 53px;
+    left: 113px;
+    background-color: #34be82;
+    position: absolute;
+}
+
+.coustom-price-site span::after{
+    content: '';
+    width: 50px;
+    height: 3px;
+    top: 53px;
+    right: 154px;
+    background-color: #34be82!important;
+    position: absolute;
+}
+.coustom-start-sefaresh span::before{
+    content: '';
+    width: 50px;
+    height: 3px;
+    top: 53px;
+    left: 287px;
+    background-color: #34be82;
+    position: absolute;
+}
+.coustom-start-sefaresh span::after{
+    content: '';
+    width: 50px;
+    height: 3px;
+    top: 53px;
+    right: 287px;
+    background-color: #34be82!important;
+    position: absolute;
+}
+.coustom-business-site span::before{
+    content: '';
+    width: 50px;
+    height: 3px;
+    top: 53px;
+    left: 218px;
+    background-color: #34be82;
+    position: absolute;
+}
+
+.coustom-business-site span::after{
+    content: '';
+    width: 50px;
+    height: 3px;
+    top: 53px;
+    right: 218px;
+    background-color: #34be82!important;
+    position: absolute;
+}
+
+.coustom-demos-site span::before{
+    content: '';
+    width: 50px;
+    height: 3px;
+    top: 53px;
+    left: 65px;
+    background-color: #34be82;
+    position: absolute;
+}
+
+.coustom-demos-site span::after{
+    content: '';
+    width: 50px;
+    height: 3px;
+    top: 53px;
+    right: 106px;
+    background-color: #34be82!important;
+    position: absolute;
+}
+
+
+
+
 .sefaresh-title span{
     font-size: .9rem;
-    }
-    .coustom-start-sefaresh span::before{
-        content: '';
-        width: 50px;
-        height: 3px;
-        top: 53px;
-        left: 287px;
-        background-color: #34be82;
-        position: absolute;
-    }
+}
     
-    .coustom-start-sefaresh span::after{
-        content: '';
-        width: 50px;
-        height: 3px;
-        top: 53px;
-        right: 287px;
-        background-color: #34be82!important;
-        position: absolute;
-    }
     .coustom-sefaresh img{
         height: 80px;
         width: 120px;
@@ -33,48 +114,25 @@
         font-size: 1.1rem!important;
         font-weight: 600;
     }
-    .coustom-business-site span::before{
-        content: '';
-        width: 50px;
-        height: 3px;
-        top: 53px;
-        left: 218px;
-        background-color: #34be82;
-        position: absolute;
-    }
-    
-    .coustom-business-site span::after{
-        content: '';
-        width: 50px;
-        height: 3px;
-        top: 53px;
-        right: 218px;
-        background-color: #34be82!important;
-        position: absolute;
-    }
     .coustom-business-site p{
         line-height: 35px;
     }
     .coustom-business-site img{
         margin-top: -44px;
     }
-
-    .coustom-form-site span::before{
-        content: '';
-        width: 50px;
-        height: 3px;
-        top: 53px;
-        left: 102px;
-        background-color: #34be82;
-        position: absolute;
+    .coustom-form input, .coustom-form select, .coustom-form textarea{
+        border-radius: 0;
     }
-    
-    .coustom-form-site span::after{
-        content: '';
-        width: 50px;
-        height: 3px;
-        top: 53px;
-        right: 102px;
-        background-color: #34be82!important;
-        position: absolute;
+    .coustom-form .form-label{
+        font-size: .9rem!important;
+    }
+   .coustom-form .form-control::placeholder{
+        font-size: .7rem!important;
+    }
+    .coustom-form p a{
+        color: #6696dd;
+     
+    }
+    .coustom-form p a:hover{
+        color: #0066ff;
     }
