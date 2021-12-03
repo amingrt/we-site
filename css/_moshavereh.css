@@ -1,0 +1,29 @@
+
+.coustom-form-moshavereh span::before{
+    content: '';
+    width: 50px;
+    height: 3px;
+    top: 53px;
+    left: 62px;
+    background-color: #34be82;
+    position: absolute;
+}
+
+.coustom-form-moshavereh span::after{
+    content: '';
+    width: 50px;
+    height: 3px;
+    top: 53px;
+    right: 62px;
+    background-color: #34be82!important;
+    position: absolute;
+}
+.form-select:focus {
+    border-color:0;
+    outline: 0;
+    box-shadow:none;
+}
+.p-moshavereh{
+color: #767676!important;
+
+}

@@ -10,6 +10,7 @@
     crossorigin="anonymous">
     <link rel="stylesheet" href="css/bootstrap.rtl.css">
     <link rel="stylesheet" href="css/main.css">
+
 </head>
 <body>
 <!--start-top-nav-->
@@ -30,12 +31,12 @@
                <div class="col-md-4 d-flex custom-top-nav d-flex align-items-center justify-content-center">
                
                <div class="sefaresh ">
-                 <button type="button" class=" mx-4 d-none d-lg-block"><a href="./sefaresh.html">سفارش طراحی سایت</a></button>
+                 <button type="button" class=" mx-4 d-none d-lg-block"><a href="./sefaresh.php">سفارش طراحی سایت</a></button>
                 </div>
         
                
                 <div class="moshavereh ">
-                  <button type="button" class="d-none d-lg-block" ><a href="moshavereh.html"> مشاوره رایگان</a></button>
+                  <button type="button" class="d-none d-lg-block" ><a href="moshavereh.php"> مشاوره رایگان</a></button>
                 </div>
               </div>
               <div class="icon-hide d-flex justify-content-end">

@@ -1,7 +1,7 @@
 <?php include_once('./header.php');?>
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
-<head>
+  <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,11 +11,10 @@
     crossorigin="anonymous">
     <link rel="stylesheet" href="css/bootstrap.rtl.css">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
-
+    
     <link rel="stylesheet" href="css/main.css">
-    <meta>
-</head>
-<body>
+  </head>
+  <body>
 <!--what-webchenar-for-design-->
 <div class="container-fluid bg-light">
   <div class="container">
