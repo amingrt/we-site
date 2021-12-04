@@ -4,11 +4,12 @@
 .Communication,.quick-access,.Social-Networks,a{
     color: #fff;
     padding-right: 20px;
-    transition: .5s ease;
+
     
 }
 .Communication,.quick-access,.Social-Networks,a:hover{
     color: #34be82;
+ 
 
 }
 .quick-access,.Social-Networks,.Communication{
@@ -29,6 +30,7 @@ padding: 10px 0;
 }
 .p-color {
     color: rgb(21, 21, 21)!important;
+    margin-right: 0!important;
 }
 .icon-footer i{
     height: 25px!important;
@@ -45,4 +47,10 @@ padding: 10px 0;
 }
 .icon-footer .fa-whatsapp:hover{
     color: #56d062!important;
+}
+.coustom-footer p{
+transition: .5s ease;
+}
+.coustom-footer p:hover{
+ margin-right: 5px;
 }
