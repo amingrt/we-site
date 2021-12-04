@@ -97,10 +97,10 @@
                           <a class="nav-link" href="#">درباره ما</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link " href="#">ارتباط با ما</a>
+                          <a class="nav-link " href="contact-us.php">ارتباط با ما</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link " href="#">مشاوره</a>
+                          <a class="nav-link " href="moshavereh.php">مشاوره</a>
                         </li>
 
 

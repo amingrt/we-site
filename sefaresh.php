@@ -187,11 +187,11 @@
               <label class="form-check-label" for="invalidCheck">
         من ربات نیستم
               </label>
-              <p class="my-3 coustom-form">اگر به مشاوره نیاز دارید <a href="./moshavereh.html" class="p-0">اینجا </a>کلیک کنید</p>
+              <p class="my-3 coustom-form">اگر به مشاوره نیاز دارید <a href="./moshavereh.php" class="p-0">اینجا </a>کلیک کنید</p>
     
             </div>
           </div>
-          <div class="col-12 mb-3 coustom-form">
+          <div class="col-12 mb-5 coustom-form">
             <button class="btn btn-primary w-100" type="submit"> ارسال</button>
           </div>
         </form>

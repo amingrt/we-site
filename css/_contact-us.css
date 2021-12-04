@@ -1,0 +1,61 @@
+.coustom-contact-us span::after{
+    content: '';
+    background-color: #34be82;
+    width: 50px;
+    height: 3px;
+    top: 9px;
+    right: 58px;
+    position: absolute;
+
+}
+.coustom-contact-us span::before{
+    content: '';
+    background-color: #34be82;
+    width: 50px;
+    height: 3px;
+    top: 9px;
+    left: 58px;
+    position: absolute;
+
+}
+.map-me iframe{
+    width: 70%;
+    height: 300px;
+   
+}
+.email-box{
+    background-color: #F0A500;
+    height: 150px;
+}
+.call-for-me{
+    background-color: #334756;
+    height: 150px;
+}
+.soupprt-for-me{
+    background-color: #082032;
+    height: 150px;
+}
+.coustom-form-message span::after{
+    content: '';
+    background-color: #34be82;
+    width: 50px;
+    height: 3px;
+    top: 54px;
+    right: 58px;
+    position: absolute;
+}
+.coustom-form-message span::before{
+    content: '';
+    background-color: #34be82;
+    width: 50px;
+    height: 3px;
+    top: 54px;
+    left: 58px;
+    position: absolute;
+}
+.p-message i{
+vertical-align: -2px;
+}
+.p-message{
+    color: #767676!important;
+}
