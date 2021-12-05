@@ -1,0 +1,91 @@
+.title-period span::after{
+    content: '';
+    width: 50px;
+    height: 3px;
+    top: 10px;
+    left: 56px;
+    background-color: #34be82;
+    position: absolute;
+}
+.title-period span::before{
+    content: '';
+    width: 50px;
+    height: 3px;
+    top: 10px;
+    right: 56px;
+    background-color: #34be82;
+    position: absolute;
+}
+.coustom-period-card {
+    position: relative;
+    display: block;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+   width: 100%;
+    box-shadow: -1px 2px 1px #efefef;
+    transition: .5s ease;
+}
+.coustom-period-card:hover{
+  transform: translateY(8px);
+}
+
+
+    
+
+.coustom-period-card .card-body h5{
+    margin: -10px 0 25px 0;
+}
+.coustom-period-card .card-body a{
+color: rgb(44, 44, 44);
+transition: .5s ease;
+
+}
+.coustom-period-card .card-body a:hover{
+    color:#34be82;
+    }
+
+.coustom-period-card .card-body ul li{
+
+    list-style: none;
+}
+.coustom-period-card .card-body .star{
+    border-bottom: 1px solid rgb(204, 204, 204);
+}
+.coustom-period-card .card-body ul li .fa-star{
+
+   color: rgb(255, 153, 0);
+}
+.coustom-period-card .card-body ul li .fa-user-graduate{
+
+    color: rgba(100, 100, 100, 0.878);
+ }
+ .coustom-period-card .card-body ul .teacher .teach{
+     color: rgb(53, 53, 53);
+     font-size: .9rem!important; 
+ }
+
+ .coustom-period-card .card-fot ul li {
+
+    list-style: none;
+}
+.coustom-period-card .card-fot .student .fa-users{
+    color: rgba(100, 100, 100, 0.878);
+}
+.coustom-period-card .card-fot .student span{
+    color: rgb(28, 28, 28);
+    font-size: .9rem!important; 
+}
+.coustom-period-card .card-fot .student .price-priod .fa-user-graduate{
+    color: rgba(100, 100, 100, 0.878);
+}
+.last-period{
+    color: rgb(89, 89, 89);
+}
+.img-period-fit{
+    display: contents;
+}

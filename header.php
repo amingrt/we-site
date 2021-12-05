@@ -10,7 +10,7 @@
     crossorigin="anonymous">
     <link rel="stylesheet" href="css/bootstrap.rtl.css">
     <link rel="stylesheet" href="css/main.css">
-
+    
 </head>
 <body>
 <!--start-top-nav-->
@@ -55,7 +55,6 @@
 <!--end-top-nav-->
 <!--start-nav-->
 <div class="main-header">
-  
   <div class="container">
     <div class="row ">
                 <div class="col-sm-12 col-lg-10 navbar-light  custom-nav">
@@ -111,7 +110,7 @@
                          <!-- Button trigger modal -->
                          <button type="button" class="btn-login" data-bs-toggle="modal" data-bs-target="#exampleModal">
                            <img src="img/sign-in-alt-solid.svg" alt="" title="ثبت نام/ورود"> 
-</button>
+                          </button>
 
 <!-- Modal -->
 
@@ -152,6 +151,7 @@
       </div>
     </div>
   </div>
+</div>
 
 </li>
 
@@ -186,6 +186,3 @@
 </div>
 </header>
 <!--end-nav-->
-  </div>
-</div>
-</header>
