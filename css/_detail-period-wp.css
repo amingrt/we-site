@@ -1,0 +1,70 @@
+.coustom-detail-period-wp-title span::after{
+    content: '';
+    width: 50px;
+    height: 3px;
+    top: 53px;
+    left: 97px;
+    background-color: #34be82;
+    position: absolute;
+}
+.coustom-detail-period-wp-title span::before{
+    content: '';
+    width: 50px;
+    height: 3px;
+    top: 53px;
+    right: 97px;
+    background-color: #34be82;
+    position: absolute;
+}
+.coustom-detail-period-wp img{
+    width: 800px;
+    
+}
+.coustom-period-wp{
+    width:24%;
+    height: 200px;
+    background-color: #fff;
+    border:1px solid #efefef;
+    border-radius: 20px 5px;
+    box-shadow: -1px 2px 1px #d3d2d2;
+}
+
+.coustom-period-wp .price{
+    width: 100%;
+    height: 55px;
+    background-color: rgb(240, 240, 240);
+    border: 1px solid #efefef;
+    border-radius: 20px 5px;
+    box-shadow: -1px 2px 1px #d3d2d2;
+}
+.coustom-period-wp .price span{
+  border-left: 1px dashed #c9c8c8;
+  padding: 17px;
+}
+.coustom-period-wp .price strong{
+  
+padding-right: 54px;
+  }
+  .coustom-period-wp .price span, p{
+      color: rgb(138, 138, 138);
+  }
+  .coustom-period-wp .login-period{
+    width: 100%;
+    height: 55px;
+    background-color: #1dac4a;
+    border-radius: 3px;
+  }
+  .coustom-period-wp .login-period:hover{
+
+    background-color: #08832f;
+
+  }
+  .coustom-period-wp .rank-period li{
+      list-style-type: none;
+  }
+  .coustom-period-wp .rank-period div li i{
+    color: rgb(255, 153, 0);
+}
+
+
+
