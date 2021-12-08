@@ -21,7 +21,7 @@
     
 }
 .coustom-period-wp{
-    width:24%;
+    width:24%!important;
     height: 200px;
     background-color: #fff;
     border:1px solid #efefef;
@@ -45,9 +45,12 @@
   
 padding-right: 54px;
   }
-  .coustom-period-wp .price span, p{
+  .coustom-period-wp .price p{
       color: rgb(138, 138, 138);
   }
+  .coustom-period-wp .price span{
+    color: rgb(138, 138, 138);
+}
   .coustom-period-wp .login-period{
     width: 100%;
     height: 55px;
@@ -66,5 +69,123 @@ padding-right: 54px;
     color: rgb(255, 153, 0);
 }
 
+.detail-period {
+    width: 24%!important;
+    height: 430px;
+    background-color: #fff;
+    border: 1px solid #efefef;
+    border-radius: 20px 5px;
+    box-shadow: -1px 2px 1px #d3d2d2;
+ 
+    margin-top: -250px;
+    margin-right: 8px;
+}
+
+.detail-period ul li i{
+    color: #4f4f4f;
+}
+.detail-period ul li span{
+    color: #262626;
+}
+
+.define-wordpress h3{
+    font-size: 1.7rem!important;
+    font-weight: 500!important;
+    line-height: 50px!important;
+    padding: 35px 0 5px!important;
+    margin-bottom: 0;
+    color: rgb(33, 33, 33);
+}
+.define-wordpress p{
+    line-height: 45px;
+    font-size: 1.3rem!important;
+    color: rgb(61, 61, 61);
+}
+
+.detail-me{
+    width: 24%!important;
+    height: 455px;
+    background-color: #fff;
+    border: 1px solid #efefef;
+    border-radius: 20px 5px;
+    box-shadow: -1px 2px 1px #d3d2d2;
+ 
+    margin-top: -517px;
+    margin-right: 8px;
+
+}
+.detail-me img{
+    border-radius: 100px;
+    width: 100px;
+    height: 100px;
+}
+.detail-me .define-teacher p{
+    font-size: 1rem!important;
+    line-height: 34px;
+}
+.accordion-button:focus {
+  
+    border-color:0;
+ 
+    box-shadow:none;
+}
+.accordion-button:not(.collapsed) {
+    color: #34be82;
+    background-color: #f8f8fa42;
+}
+.accordion-flush{
+    border: 0;
+    
+}
+.accordion-flush .accordion-item{
+    overflow: hidden;
+    background: #fff;
+    margin-bottom: 20px;
+    border-radius: 40px;
+    box-shadow: 1px 3px 5px 0px #909090;
+    padding: 20px;
+}
+.title-acardion{
+    top: 2px;
+    color: rgb(48, 48, 48);
+}
+.count-period{
+    left: 50px;
+    color: rgb(118, 118, 118);
+}
+.accordion-button i{
+    color: rgb(118, 118, 118);
+}
+.accordion-item .accordion-body ul::before{
+    content: '';
+    position: absolute;
+    background: var(--bs-gray-100);
+    width: 2px;
+    top: 0;
+    bottom: 67px;
+    right: 40px;
+}
+.fa-play:before {
+
+    content: "\f04b";
+    background-color: #f2f2f2;
+    padding: 10px;
+    border-radius: 20px;
+    right: -35px;
+    position: relative;
+    box-shadow: -1px 2px 6px #525252;
+}
 
 
+
+.accordion-body .time{
+    position: absolute;
+    left: 50px;
+    color: rgb(118, 118, 118);
+}
+.accordion-body ul li{
+margin-bottom: 60px;
+}
+.accordion-body ul li .title{
+    color: rgb(48, 48, 48);
+    }
