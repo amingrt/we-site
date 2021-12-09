@@ -13,6 +13,7 @@
 @import'_about.css';
 @import'_period.css';
 @import'_detail-period-wp.css';
+@import'_web-design-wordpress.css';
 
 
 @font-face {
@@ -29,6 +30,7 @@
     src: url('../font/anson-regular-webfont.eot') format('embedded-opentype'),
          url('../font/anson-regular-webfont.woff') format('woff'),
          url('../font/anson-regular-webfont.ttf') format('truetype');
+         
 
     font-weight: normal;
     font-style: normal;

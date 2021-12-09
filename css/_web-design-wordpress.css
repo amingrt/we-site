@@ -1,0 +1,79 @@
+.title-contact span::before{
+    content: '';
+    width: 50px;
+    height: 3px;
+    top: 10px;
+    left: 117px;
+    background-color: #34be82;
+    position: absolute;
+}
+.title-contact span::after{
+    content: '';
+    width: 50px;
+    height: 3px;
+    top: 10px;
+    right: 117px;
+    background-color: #34be82;
+    position: absolute;
+}
+.title-contact-two span::before{
+    content: '';
+    width: 50px;
+    height: 3px;
+    top: 10px;
+    left: 205px;
+    background-color: #34be82;
+    position: absolute;
+}
+.title-contact-two span::after{
+    content: '';
+    width: 50px;
+    height: 3px;
+    top: 10px;
+    right: 205px;
+    background-color: #34be82;
+    position: absolute;
+}
+
+
+
+
+
+.coustom-Web-design-wordpress p{
+    color: rgb(34, 34, 34);
+}
+.coustom-Web-design-wordpress span{
+    color: rgb(80, 80, 80);
+    line-height: 50px;
+}
+
+.coustom-card-design-wordpress .card .card-body h5{
+    color: rgb(68, 68, 68);
+    transition: .2s ease;
+}
+.coustom-card-design-wordpress .card .card-body h5:hover{
+    color: rgb(0, 0, 0);
+}
+.coustom-card-design-wordpress .card .card-body p{
+font-size: 1.1rem!important;
+line-height: 40px
+}
+
+.coustom-card-design-wordpress .card {
+    box-shadow: -2px 6px 15px #606060;
+    border-radius:40px 0px 40px 0px;
+    transition: .5s ease;
+
+ 
+}
+.coustom-card-design-wordpress .card:hover{
+   transform: translateY(-10px);
+}
+
+
+.coustom-card-design-wordpress .card img{
+ 
+    border-radius:40px 0px 0 0px;
+  
+
+}

@@ -70,7 +70,7 @@
                           <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button">طراحی سایت</a>
                             <ul class="dropdown-menu">
-                              <li><a class="dropdown-item" href="#">طراحی سایت وردپرس</a></li>
+                              <li><a class="dropdown-item" href="Web-design-wordpress.php">طراحی سایت وردپرس</a></li>
                               <li><a class="dropdown-item" href="#">طراحی سایت شرکتی</a></li>
                               <li><a class="dropdown-item" href="#">طراحی سایت شخصی</a></li>
                               <li><a class="dropdown-item" href="#">طراحی سایت پزشکی</a></li>
@@ -165,7 +165,7 @@
                             </a>
                        
                         
-                          <div class="collapse" id="collapseExample">
+                          <div class="collapse coustom-card" id="collapseExample">
                             <div class="card card-body">
                             <form action="https://google.com">
                               <input type="search" class="form-control" id="collapseExample2" placeholder="عنوان مد نظر خود را جست و جو کنید">

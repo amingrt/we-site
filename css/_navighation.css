@@ -45,6 +45,7 @@
     width: 15px;
         margin-right: 4px;
     margin-top: -4px;
+    
    }
 .modal-header .modal-title span{
     margin-right: 165px;
@@ -84,8 +85,9 @@ transition: .5s ease;
 .nav-item .btn-search img{
     height: 15px;
     width: 15px;
-    margin-right: -7px;
-    vertical-align: -5px;
+    /* margin-right: -7px;
+    vertical-align: -5px; */
+    margin-top: 3px;
 }
 .btn-check:focus + .btn, .btn:focus {
     outline: 0;
@@ -101,4 +103,8 @@ transition: .5s ease;
     margin-right: -25px;
 }
         
-    }
+}
+
+.coustom-card .card-body {
+    margin-top: 4px!important;
+}
