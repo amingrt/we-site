@@ -86,24 +86,12 @@
 <!--price-site-->
 
 
-<div class="container-fluid bg-white">
-  <div class="container">
-    <div class="row">
-        <h5 class="text-center mt-3 coustom-price-site">
-          <span class="py-5 position-relative"> تعرفه قیمت طراحی سایت</span>
-          <div class="col-12">
 
-          </div>
-        </h5>
-    </div>
-  </div>
-  <br><br><br><br><br><br><br><br><br><br>
-</div>
 
 
 <!--end-price-site-->
 <!--start-form-sefaresh-->
-<div class="container-fluid bg-light">
+<div class="container-fluid bg-white">
   <div class="container">
     <div class="row">
         <h5 class="text-center mt-3 coustom-form-site">

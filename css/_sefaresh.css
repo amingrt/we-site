@@ -17,25 +17,6 @@
     background-color: #34be82!important;
     position: absolute;
 }
-.coustom-price-site span::before{
-    content: '';
-    width: 50px;
-    height: 3px;
-    top: 53px;
-    left: 113px;
-    background-color: #34be82;
-    position: absolute;
-}
-
-.coustom-price-site span::after{
-    content: '';
-    width: 50px;
-    height: 3px;
-    top: 53px;
-    right: 154px;
-    background-color: #34be82!important;
-    position: absolute;
-}
 .coustom-start-sefaresh span::before{
     content: '';
     width: 50px;
@@ -135,4 +116,10 @@
     }
     .coustom-form p a:hover{
         color: #0066ff;
+    }
+ 
+    .coustom-form input, .coustom-form select, .coustom-form textarea {
+        border-radius: 0;
+    
+        background-color: rgba(201, 201, 201, 0.1);
     }

@@ -19,9 +19,9 @@
             <div class="row row-cols-1 row-cols-md-3 g-4">
                 <div class="col">
                   <div class="card coustom-period-card mb-2">
-                    <a href="#" class="img-period-fit"><img src="img/wordpress-period.jpg" class="card-img-top img-fluid d-block" alt="..."></a>
+                    <a href="detail-period-wp.php" class="img-period-fit"><img src="img/wordpress-period.jpg" class="card-img-top img-fluid d-block" alt="..."></a>
                     <div class="card-body p-0">
-                        <a href="#">
+                        <a href="detail-period-wp.php">
                             <h5 class="card-title px-2">دوره جامع وردپرس</h5>
                     </a>
       

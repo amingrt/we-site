@@ -40,7 +40,7 @@
                         <option>طراحی سایت شرکتی </option>
                         <option>طراحی سایت شخصی </option>
                         <option>طراحی سایت  پزشکی</option>
-                        <option>مشاوره</option>
+                        <option>دورهای آموزشی</option>
                         <option>سایر موارد</option>
           
                       </select>
