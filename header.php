@@ -71,10 +71,10 @@
                             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button">طراحی سایت</a>
                             <ul class="dropdown-menu">
                               <li><a class="dropdown-item" href="Web-design-wordpress.php">طراحی سایت وردپرس</a></li>
-                              <li><a class="dropdown-item" href="#">طراحی سایت شرکتی</a></li>
-                              <li><a class="dropdown-item" href="#">طراحی سایت شخصی</a></li>
-                              <li><a class="dropdown-item" href="#">طراحی سایت پزشکی</a></li>
-                              <li><a class="dropdown-item" href="#">پشتیبانی</a></li>
+                              <li><a class="dropdown-item" href="web-design-Company.php">طراحی سایت شرکتی</a></li>
+                              <li><a class="dropdown-item" href="web-design-privte.php">طراحی سایت شخصی</a></li>
+                              <li><a class="dropdown-item" href="web-design-medical.php">طراحی سایت پزشکی</a></li>
+                              <li><a class="dropdown-item" href="support.php">پشتیبانی</a></li>
                             </ul>
                           </li>
                           <li class="nav-item">
