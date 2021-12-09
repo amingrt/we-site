@@ -16,8 +16,8 @@
       <div class="col-sm-6 col-md-3 coustom-footer">
         <div class="quick-access">
           <p class="mt-5 p-color">دسترسی سریع</p>
-          <a href="#"><p>طراحی سایت</p></a>
-          <a href="#"><p>مشاوره</p></a>
+          <a href="sefaresh.php"><p>سفارش طراحی سایت</p></a>
+          <a href="moshavereh.php"><p>مشاوره</p></a>
           <a href="#"><p>وبلاگ</p></a>
           <a href="#"><p>پشتیبانی</p></a>
         </div>
@@ -25,8 +25,8 @@
       <div class="col-sm-6 col-md-3 coustom-footer">
         <div class="quick-access">
           <p class="mt-5 p-color">دسترسی سریع</p>
-          <a href="#"><p>آموزش ها</p></a>
-          <a href="#"><p>تعرفه طراحی سایت</p></a>
+          <a href="period.php"><p>آموزش ها</p></a>
+          <a href="about.php"><p>درباره ما</p></a>
           <a href="#"><p>قوانین</p></a>
           <a href="#"><p>مقالات</p></a>
         </div>

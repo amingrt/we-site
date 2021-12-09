@@ -21,7 +21,7 @@
            <div class="col-md-3 d-flex custom-top-nav">
                <div class="icon">
                  <div class="d-flex">
-                   <a href="/index.html"><img src="img/web_logo_chenar2.png" alt=""></a>
+                   <a href="index.php"><img src="img/web_logo_chenar2.png" alt=""></a>
                  </div>
                  </div>
                  <p class="title-img d-none d-lg-block">آموزش و طراحی سایت در وب چنار</p>
@@ -65,7 +65,7 @@
                       <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                           <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="#">صفحه اصلی</a>
+                            <a class="nav-link active" aria-current="page" href="index.php">صفحه اصلی</a>
                           </li>
                           <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button">طراحی سایت</a>
